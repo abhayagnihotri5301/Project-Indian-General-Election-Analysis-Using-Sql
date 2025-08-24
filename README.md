@@ -9,7 +9,7 @@ The project is based on a guided tutorial from [Data Tutorials YouTube Channel](
 
 ## 📂 Repository Contents  
 - `states.csv` – List of Indian states and UTs  
-- `constituencywise_results.csv` – Election results by constituency  
+- `constituencywise_results.csv` – Election results by constituency 
 - `constituencywise_details.csv` – Candidate-level data for each constituency  
 - `partywise_results.csv` – Party-wise aggregated results  
 - `statewise_results.csv` – State-wise aggregated results  
