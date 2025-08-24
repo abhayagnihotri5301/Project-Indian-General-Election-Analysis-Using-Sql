@@ -47,8 +47,9 @@ The project is based on a guided tutorial from [Data Tutorials YouTube Channel](
    - Breakdown of EVM and Postal votes  
 
 6. **Learning Outcomes**
-   -Hands-on practice with SQL joins, aggregations, and window functions
-   -Working with real-world structured datasets
-   -Understanding party alliances, vote distributions, and candidate performance
+   - Hands-on practice with SQL joins, aggregations, and window functions
+   - Working with real-world structured datasets
+   - Understanding party alliances, vote distributions, and candidate performance
+     
 ---
 
