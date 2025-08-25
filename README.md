@@ -52,7 +52,7 @@ The project is based on a guided tutorial from [Data Tutorials YouTube Channel](
    - Understanding party alliances, vote distributions, and candidate performance
   
      
-![Database Schema](images/Entity Relationship Diagram(EDR)Schema.png)
+![Database Schema](images/EntityRelationshipDiagram(EDR)Schema.png)
      
 ---
 
