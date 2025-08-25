@@ -51,7 +51,7 @@ The project is based on a guided tutorial from [Data Tutorials YouTube Channel](
    - Working with real-world structured datasets
    - Understanding party alliances, vote distributions, and candidate performance
   
-     
+7. **Database Schema**     
 ![Database Schema](images/EntityRelationshipDiagram(EDR)Schema.png)
      
 ---
